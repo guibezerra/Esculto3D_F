@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file alias="novo">recursos/new-document-button.png</file>
+    </qresource>
+</RCC>
